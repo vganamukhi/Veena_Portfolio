@@ -12,6 +12,7 @@ Bird Species Classification: Classification of 11788 bird images into 200 classe
 # Project 3
 
 Lives of Americans with multiple jobs: Analyze the lives or satisfaction levels of people with single job when compared to those with multiple jobs. ATUS survey data was used. Python and R programming languages were used to clean and analyze the data. Seminar was presented on the findings. Tableau and JMP was used for graphs and data insights. 
+Using foloowing libraries: R (shiny, ggplot2, tidyverse, ggplot2, plotly) and Python libraries such as Numpy,Scipy, Matplotlib, SNS etc...
 
 # Project 4
 
