@@ -53,3 +53,31 @@ while performing data visualization in Tableau or Power BI using data from big d
 # Project 8
 •	Created and worked on Mango DB and hive on a project used Hadoop and SQL queries, Pyspartk in order to access and modify the large data sets in the data base. Used Map-Reduce functions to process these big data.
 
+
+# Work Experience
+# FRESH AIR: Smoke detection prediction and analysis.                            	              Nov 2019-May 2020
+Data Science Intern/Consultant
+•	Analyzing Smoking Data and providing insights on smoking and nonsmoking alerts. Build machine learning models for the classification of smoking and nonsmoking events. Designed and implemented neural net models with 96% accuracy. Designed Temporal neural network model and ensemble model with TCN, CNN and LSTMs in Python and fine tuning the hyper parameters of these models in order to improve the accuracy, recall and precision. Clustering of data points using Python and R.
+
+# RIVERSTONE: Profiling risk scores and building dashboard.                                       Nov 2019-May 2020
+Data Science Intern/Consultant
+•	Analyzed Cyber Security Risk scores data. Creating risk scores for different types of risks to protect organization's network and internal laptops from attacks. Created Dashboard using Tableau and Power BI and Dash to collate and represent these security risks into one platform. Designed and Implemented Auto encoders in Python to profile these risk scores from different sources. Sources such as Azure, Nessus, Proof Pont, MFA, Absolute Risk Scores. Clustering of these data points using KMeans, DBScan, HDBScan in Python.
+
+# Larsen and Toubro Technology Services – Bangalore, India	                         May 2016-Aug 2017                                     
+Project Lead
+•	Implemented android framework for audio decoder, video decoder and gallery applications on Mobile handsets from various companies and Set Top Boxes.
+•	Design and implementation of above modules in C and C++ on Linux and android. Profiling, analyzing and optimizing the code for increase in performance. 
+•	Tools used: Microsoft visual studio, Linux 
+•	Contributed individually to the project and managed team of 5 individuals. Trained individuals to work in the team on different programming languages and imparted domain knowledge.
+
+# Samsung Research and Development Institute – Bangalore, India	                       Sep 2011-Aug 2015                        
+Technical Lead/ Lead Engineer
+•	Development of OpenMax interface for audio and video decoders for GoogleTV and Set Top Boxes. Audio codec optimization on Tensilica HiFi2 and HiFi3 processors, Study audio file formats such as MS10 and MS11, MP3, MPEG layer1, AC3, Wave and Video file formats such as H264, H263
+•	Device driver development for TV chipsets such as FoxB, Golf and Hawk, Testing and validation of the same. Audio and Video codec optimization. Development of Email client for Samsung mobile handsets
+•	Worked in various teams of size from 5 to 9 as strong individual contributor and managed fresh graduates.
+
+# Sirius Embedded Software – Bangalore, India	                                    
+Trainee Software Engineer/ Software Engineer
+•	Development of MPEG Encoder and Decoder applications, TVS Boombike infotainment device using C, JAVA Android and Linux.
+•	Device driver development for FM tuner chipset from STMicroelectronics.Worked in various teams of size from 3 to 4 and provided service to clients such as TVS and Tata Elxsi. 
+
